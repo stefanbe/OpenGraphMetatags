@@ -1,0 +1,47 @@
+#admin-ogp {
+    width : 70em;
+}
+#admin-ogp-content-ul {
+}
+/*1=oben, 2=rechts, 3=unten, 4=links*/
+#admin-ogp-menu {
+    position:fixed;
+    top:0;
+    right:1em;
+    padding:.4em 0 .4em 0;
+}
+
+#admin-ogp-content {
+    margin-top:3em;
+    margin-bottom:1em;
+    width : 70em;
+}
+
+#admin-ogp .admin-ogp-cat {
+    font-weight:bold;
+    padding-left:.8em;
+    padding-top:.4em;
+}
+
+#admin-ogp .admin-ogp-in {
+    margin-bottom:.4em;
+}
+
+#admin-ogp li input, #admin-ogp li textarea {
+    width : 52em;
+}
+
+#admin-ogp li span.vertical-top {
+    vertical-align: top;
+}
+
+#admin-ogp li span {
+    display:inline-block;
+    width : 10em;
+    padding-left:2em;
+}
+
+#admin-ogp .admin-ogp-submit {
+    margin-left:1em;
+    margin-right:1em;
+}
